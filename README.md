@@ -13,3 +13,7 @@ Easy deploy to any web server
 ## Explanation
 
 Follow the Basics
+
+## Copyright
+
+2017 JRC Productions
