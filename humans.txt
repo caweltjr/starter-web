@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Cawelti -- Developer -- Smell the Sunshine
 
 # THANKS
 
