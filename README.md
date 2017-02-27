@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple web site project for demonstrating how Git and GitHub work
+Updating file, doing an emergency fix after our stash
 
 ## Purpose
 
