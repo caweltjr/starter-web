@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 Easy deploy to any web server
 Adding a line for rebase example
+More changes from myfeature branch
 
 ## Explanation
 
