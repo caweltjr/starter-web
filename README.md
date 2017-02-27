@@ -18,7 +18,7 @@ Follow the Basics
 
 ## Copyright
 
-2017 JRC Productions
+2017 JRC Productions; All rights reserved
 
 ## How to Contribute
 
